@@ -1,5 +1,5 @@
 # 1995 - M703D - 703-06-004 - OUTPUT AMPLIFIER COMPONENT LAYOUT.pcb
-Wiki page: [M703D](../../../PAGES/M703D.md)
+Wiki page: [M703D](../../../../PAGES/M703D.md)
 
 
 - **Year:** 1995 (found in this file: "Issue 14-318 Wagdy Saleh DEC 12, 1995")
@@ -655,7 +655,7 @@ DEC 12, 1995
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M703D/1995 - M703D - 703-06-004 - OUTPUT AMPLIFIER COMPONENT LAYOUT.pcb",
+ "file": "Modules/COMMUNICATION/M703D/SCHEMATICS/1995 - M703D - 703-06-004 - OUTPUT AMPLIFIER COMPONENT LAYOUT.pcb",
  "sha256": "76edb73f4b58e7bc0481538932e2f2cee67519bf39ed9a68150ed2efd6c87949",
  "kind": "module",
  "models": [
