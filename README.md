@@ -1,6 +1,6 @@
 # M703D Intercom Preamplifier · Communication
 
-Ward-Beck Systems M703D, 1995|28. Wiki page: [M703D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M703D.html)
+Ward-Beck Systems M703D, 1995|28. Wiki page: [M703D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M703D-Intercom-Preamplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
